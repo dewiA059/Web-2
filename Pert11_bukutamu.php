@@ -1,5 +1,3 @@
-lines (19 sloc)  630 Bytes
- 
 <html>
 <head>
 <title>Buku Tamu</title>
